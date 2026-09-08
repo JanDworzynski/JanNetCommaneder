@@ -1,5 +1,5 @@
 <p align="center">
-# JanNetCommaneder
+JanNetCommaneder
 </p>
 # Functions
 1. Ping
