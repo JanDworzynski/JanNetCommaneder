@@ -1,17 +1,21 @@
-============================================
-             JanNetCommaneder
-============================================
+# JanNetCommaneder
 
-# Thats my C++ program that I am making to help me undestood networking better
+A C++ networking toolkit that I'm building to better understand computer networking, network protocols, and how networking tools work under the hood.
 
-# Functions
+## Functions
+
 1. Ping
-2. Dns Lookup
+2. DNS Lookup
 
+## To Do
 
-# To do:
-1. Port scanner
-2. IP scanner
-3. Arp scanner
+1. Port Scanner
+2. IP Scanner
+3. ARP Scanner
+4. Traceroute
+5. Network Interface Information
+6. TCP Connection Viewer
 
-   
+## Goal
+
+The main goal of this project is to learn C++ and understand networking by building each tool myself from scratch.
