@@ -2,7 +2,7 @@
              JanNetCommaneder
 ============================================
 
-Thats my C++ program that I am making to help me undestood networking better
+# Thats my C++ program that I am making to help me undestood networking better
 
 # Functions
 1. Ping
