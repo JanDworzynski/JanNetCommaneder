@@ -1,6 +1,6 @@
 # JanNetCommaneder
 
-A C++ networking toolkit that I'm building to better understand computer networking, network protocols, and how networking tools work under the hood.
+A C++ networking toolkit that I'm building to better understand computer networking, network protocols, and how networking tools work under the hood. JanNetCommander is using classic windows commands, but its gonna change in future!
 
 ## Functions
 
