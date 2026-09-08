@@ -1,6 +1,7 @@
 ============================================
              JanNetCommaneder
 ============================================
+
 Thats my C++ program that I am making to help me undestood networking better
 
 # Functions
