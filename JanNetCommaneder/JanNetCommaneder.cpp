@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 void Ping();
+void dnslookup();
 
 int main() {
         cout << "======================" << endl;
@@ -10,7 +11,7 @@ int main() {
         int toolnumber;
 
         cout << "1. Ping" << endl;
-        cout << "2. Port Scanner" << endl;
+        cout << "2. DNS Lookup" << endl;
         cout << "3. Exit" << endl;
         cout << "Please input tool number: ";
         cin >> toolnumber;
@@ -21,7 +22,7 @@ int main() {
 			Ping(); 
             break;
         case 2:
-            cout << "Port scanner" << endl;
+            dnslookup();
             break;
         case 3:
             cout << "Exiting JanNetTools" << endl;
